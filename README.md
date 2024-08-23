@@ -1,4 +1,4 @@
-<h3>programmer-designer-photographer-blablabla</h3>
+<h3>developer-designer-photographer-blablabla</h3>
 <p>currently learning web dev</p>
 
 <!--

@@ -1,5 +1,6 @@
-<h2>programmer-designer-photographer-blablabla</h2>
+<h3>programmer-designer-photographer-blablabla</h3>
 <p>currently learning web dev</p>
+
 <!--
 **sxivansx/sxivansx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
